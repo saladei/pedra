@@ -122,6 +122,6 @@ RNF10: O sistema deve estar em conformidade com a LGPD (ou GDPR), oferecendo ao 
 RNF11: O app deve funcionar em Android, iOS e navegadores modernos.
 
 
-8. Interoperabilidade
+8. Interoperabilidadee
 
 RNF12: Deve ser possível integrar com APIs externas de notícias (ex: GNews, NYTimes) e redes sociais (Twitter/X, Mastodon, etc.).
