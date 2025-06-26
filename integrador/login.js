@@ -1,3 +1,3 @@
 document.getElementById('btnRegistrar').addEventListener('click', function () {
-    window.location.href = 'registro.html';
+  window.location.href = 'registro.html';
 });
